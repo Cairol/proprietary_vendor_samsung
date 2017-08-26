@@ -58,7 +58,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hlte-common/proprietary/etc/wifi/nvram_net.txt_murata:system/etc/wifi/nvram_net.txt_murata \
     vendor/samsung/hlte-common/proprietary/etc/wifi/nvram_net.txt_semco3rd:system/etc/wifi/nvram_net.txt_semco3rd \
     vendor/samsung/hlte-common/proprietary/etc/wifi/nvram_net.txt_wisol:system/etc/wifi/nvram_net.txt_wisol \
-    vendor/samsung/hlte-common/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/samsung/hlte-common/proprietary/lib/C13QL_libTsAe.so:system/lib/C13QL_libTsAe.so \
     vendor/samsung/hlte-common/proprietary/lib/C13QL_libTsAf.so:system/lib/C13QL_libTsAf.so \
     vendor/samsung/hlte-common/proprietary/lib/C13QL_libTs_J_Accm.so:system/lib/C13QL_libTs_J_Accm.so \
