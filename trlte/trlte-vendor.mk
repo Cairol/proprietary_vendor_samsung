@@ -41,7 +41,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libril.so:system/blobs/spr/lib/libril.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/librmnetctl.so:system/blobs/spr/lib/librmnetctl.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libsec-ril.so:system/blobs/spr/lib/libsec-ril.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libsecnativefeature.so:system/blobs/spr/lib/libsecnativefeature.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libsecril-client.so:system/blobs/spr/lib/libsecril-client.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libshdace.so:system/blobs/spr/lib/libshdace.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libtinyxml.so:system/blobs/spr/lib/libtinyxml.so \
@@ -86,7 +85,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libril.so:system/blobs/tmo/lib/libril.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/librmnetctl.so:system/blobs/tmo/lib/librmnetctl.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libsec-ril.so:system/blobs/tmo/lib/libsec-ril.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libsecnativefeature.so:system/blobs/tmo/lib/libsecnativefeature.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libsecril-client.so:system/blobs/tmo/lib/libsecril-client.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libshdace.so:system/blobs/tmo/lib/libshdace.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libtinyxml.so:system/blobs/tmo/lib/libtinyxml.so \
@@ -131,7 +129,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libril.so:system/blobs/vzw/lib/libril.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/librmnetctl.so:system/blobs/vzw/lib/librmnetctl.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libsec-ril.so:system/blobs/vzw/lib/libsec-ril.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libsecnativefeature.so:system/blobs/vzw/lib/libsecnativefeature.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libsecril-client.so:system/blobs/vzw/lib/libsecril-client.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libshdace.so:system/blobs/vzw/lib/libshdace.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libtinyxml.so:system/blobs/vzw/lib/libtinyxml.so \
@@ -176,7 +173,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libril.so:system/blobs/xx/lib/libril.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/librmnetctl.so:system/blobs/xx/lib/librmnetctl.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libsec-ril.so:system/blobs/xx/lib/libsec-ril.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libsecnativefeature.so:system/blobs/xx/lib/libsecnativefeature.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libsecril-client.so:system/blobs/xx/lib/libsecril-client.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libshdace.so:system/blobs/xx/lib/libshdace.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libtinyxml.so:system/blobs/xx/lib/libtinyxml.so \
