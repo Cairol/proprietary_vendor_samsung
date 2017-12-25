@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libbt-codec_sshd.so:system/blobs/spr/lib/libbt-codec_sshd.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libbt-iopdb.so:system/blobs/spr/lib/libbt-iopdb.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libbt-iopdb_mod.so:system/blobs/spr/lib/libbt-iopdb_mod.so \
-    vendor/samsung/trlte/proprietary/blobs/spr/lib/libbt-vendor.so:system/blobs/spr/lib/libbt-vendor.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libedmnativehelper.so:system/blobs/spr/lib/libedmnativehelper.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libjpegdhw.so:system/blobs/spr/lib/libjpegdhw.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libjpegehw.so:system/blobs/spr/lib/libjpegehw.so \
@@ -74,7 +73,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libbt-codec_sshd.so:system/blobs/tmo/lib/libbt-codec_sshd.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libbt-iopdb.so:system/blobs/tmo/lib/libbt-iopdb.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libbt-iopdb_mod.so:system/blobs/tmo/lib/libbt-iopdb_mod.so \
-    vendor/samsung/trlte/proprietary/blobs/tmo/lib/libbt-vendor.so:system/blobs/tmo/lib/libbt-vendor.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libedmnativehelper.so:system/blobs/tmo/lib/libedmnativehelper.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libjpegdhw.so:system/blobs/tmo/lib/libjpegdhw.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libjpegehw.so:system/blobs/tmo/lib/libjpegehw.so \
@@ -118,7 +116,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libbt-codec_sshd.so:system/blobs/vzw/lib/libbt-codec_sshd.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libbt-iopdb.so:system/blobs/vzw/lib/libbt-iopdb.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libbt-iopdb_mod.so:system/blobs/vzw/lib/libbt-iopdb_mod.so \
-    vendor/samsung/trlte/proprietary/blobs/vzw/lib/libbt-vendor.so:system/blobs/vzw/lib/libbt-vendor.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libedmnativehelper.so:system/blobs/vzw/lib/libedmnativehelper.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libjpegdhw.so:system/blobs/vzw/lib/libjpegdhw.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libjpegehw.so:system/blobs/vzw/lib/libjpegehw.so \
@@ -162,7 +159,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libbt-codec_sshd.so:system/blobs/xx/lib/libbt-codec_sshd.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libbt-iopdb.so:system/blobs/xx/lib/libbt-iopdb.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libbt-iopdb_mod.so:system/blobs/xx/lib/libbt-iopdb_mod.so \
-    vendor/samsung/trlte/proprietary/blobs/xx/lib/libbt-vendor.so:system/blobs/xx/lib/libbt-vendor.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libedmnativehelper.so:system/blobs/xx/lib/libedmnativehelper.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libjpegdhw.so:system/blobs/xx/lib/libjpegdhw.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libjpegehw.so:system/blobs/xx/lib/libjpegehw.so \
