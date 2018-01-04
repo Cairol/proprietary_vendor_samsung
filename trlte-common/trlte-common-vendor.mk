@@ -213,7 +213,17 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/lib/libvfmClient.so:system/lib/libvfmClient.so \
     vendor/samsung/trlte-common/proprietary/lib/libvfmtztransport.so:system/lib/libvfmtztransport.so \
     vendor/samsung/trlte-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm43569A1_V0054.0095.hcd:system/vendor/firmware/bcm43569A1_V0054.0095.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm43569A1_V0054.0095_murata.hcd:system/vendor/firmware/bcm43569A1_V0054.0095_murata.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm43569A1_V0054.0095_semco.hcd:system/vendor/firmware/bcm43569A1_V0054.0095_semco.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm43569A1_V0054.0095_semcosh.hcd:system/vendor/firmware/bcm43569A1_V0054.0095_semcosh.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm43569A1_V0054.0095_semcove.hcd:system/vendor/firmware/bcm43569A1_V0054.0095_semcove.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm43569A1_V0054.0095_wisol.hcd:system/vendor/firmware/bcm43569A1_V0054.0095_wisol.hcd \
     vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095.hcd:system/vendor/firmware/bcm4358A1_V0054.0095.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095_murata.hcd:system/vendor/firmware/bcm4358A1_V0054.0095_murata.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095_semco.hcd:system/vendor/firmware/bcm4358A1_V0054.0095_semco.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095_semcosh.hcd:system/vendor/firmware/bcm4358A1_V0054.0095_semcosh.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095_semcove.hcd:system/vendor/firmware/bcm4358A1_V0054.0095_semcove.hcd \
     vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd:system/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd \
     vendor/samsung/trlte-common/proprietary/vendor/firmware/sec_s3fwrn5_firmware.bin:system/vendor/firmware/sec_s3fwrn5_firmware.bin \
     vendor/samsung/trlte-common/proprietary/vendor/lib/H16UL_libchromatix_s5k2p2xx_common.so:system/vendor/lib/H16UL_libchromatix_s5k2p2xx_common.so \
