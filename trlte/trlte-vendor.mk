@@ -21,7 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/spr/bin/mdm_helper:system/blobs/spr/bin/mdm_helper \
     vendor/samsung/trlte/proprietary/blobs/spr/bin/mdm_helper_proxy:system/blobs/spr/bin/mdm_helper_proxy \
     vendor/samsung/trlte/proprietary/blobs/spr/bin/qcks:system/blobs/spr/bin/qcks \
-    vendor/samsung/trlte/proprietary/blobs/spr/bin/rmnetcli:system/blobs/spr/bin/rmnetcli \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libagc_max.so:system/blobs/spr/lib/libagc_max.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libbt-aptX-ARM-4.2.2.so:system/blobs/spr/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/trlte/proprietary/blobs/spr/lib/libbt-codec_aptx.so:system/blobs/spr/lib/libbt-codec_aptx.so \
@@ -43,7 +42,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/tmo/bin/mdm_helper:system/blobs/tmo/bin/mdm_helper \
     vendor/samsung/trlte/proprietary/blobs/tmo/bin/mdm_helper_proxy:system/blobs/tmo/bin/mdm_helper_proxy \
     vendor/samsung/trlte/proprietary/blobs/tmo/bin/qcks:system/blobs/tmo/bin/qcks \
-    vendor/samsung/trlte/proprietary/blobs/tmo/bin/rmnetcli:system/blobs/tmo/bin/rmnetcli \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libagc_max.so:system/blobs/tmo/lib/libagc_max.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libbt-aptX-ARM-4.2.2.so:system/blobs/tmo/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/trlte/proprietary/blobs/tmo/lib/libbt-codec_aptx.so:system/blobs/tmo/lib/libbt-codec_aptx.so \
@@ -65,7 +63,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/vzw/bin/mdm_helper:system/blobs/vzw/bin/mdm_helper \
     vendor/samsung/trlte/proprietary/blobs/vzw/bin/mdm_helper_proxy:system/blobs/vzw/bin/mdm_helper_proxy \
     vendor/samsung/trlte/proprietary/blobs/vzw/bin/qcks:system/blobs/vzw/bin/qcks \
-    vendor/samsung/trlte/proprietary/blobs/vzw/bin/rmnetcli:system/blobs/vzw/bin/rmnetcli \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libagc_max.so:system/blobs/vzw/lib/libagc_max.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libbt-aptX-ARM-4.2.2.so:system/blobs/vzw/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/trlte/proprietary/blobs/vzw/lib/libbt-codec_aptx.so:system/blobs/vzw/lib/libbt-codec_aptx.so \
@@ -87,7 +84,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/blobs/xx/bin/mdm_helper:system/blobs/xx/bin/mdm_helper \
     vendor/samsung/trlte/proprietary/blobs/xx/bin/mdm_helper_proxy:system/blobs/xx/bin/mdm_helper_proxy \
     vendor/samsung/trlte/proprietary/blobs/xx/bin/qcks:system/blobs/xx/bin/qcks \
-    vendor/samsung/trlte/proprietary/blobs/xx/bin/rmnetcli:system/blobs/xx/bin/rmnetcli \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libagc_max.so:system/blobs/xx/lib/libagc_max.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libbt-aptX-ARM-4.2.2.so:system/blobs/xx/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/trlte/proprietary/blobs/xx/lib/libbt-codec_aptx.so:system/blobs/xx/lib/libbt-codec_aptx.so \
