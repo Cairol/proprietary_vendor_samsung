@@ -75,7 +75,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/etc/wifi/nvram_net.txt_wisol:system/vendor/etc/wifi/nvram_net.txt_wisol \
     vendor/samsung/trlte-common/proprietary/etc/wifi/nvram_net.txt_wisol_r10:system/vendor/etc/wifi/nvram_net.txt_wisol_r10 \
     vendor/samsung/trlte-common/proprietary/etc/wifi/olsrd.conf:system/vendor/etc/wifi/olsrd.conf \
-    vendor/samsung/trlte-common/proprietary/etc/wifi/wpa_supplicant.conf:system/vendor/etc/wifi/wpa_supplicant.conf \
     vendor/samsung/trlte-common/proprietary/lib/libagc_max.so:system/vendor/lib/libagc_max.so \
     vendor/samsung/trlte-common/proprietary/lib/H16UL_libTsAe.so:system/vendor/lib/H16UL_libTsAe.so \
     vendor/samsung/trlte-common/proprietary/lib/H16UL_libTsAf.so:system/vendor/lib/H16UL_libTsAf.so \
@@ -184,6 +183,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
     vendor/samsung/trlte-common/proprietary/lib/hw/sensors.apq8084.so:system/vendor/lib/sensors.vendor.apq8084.so \
+    vendor/samsung/trlte-common/proprietary/lib/libLLVM.so:system/vendor/lib/libLLVM.so \
     vendor/samsung/trlte-common/proprietary/lib/libTsAe.so:system/vendor/lib/libTsAe.so \
     vendor/samsung/trlte-common/proprietary/lib/libTsAf.so:system/vendor/lib/libTsAf.so \
     vendor/samsung/trlte-common/proprietary/lib/libTs_J_Accm.so:system/vendor/lib/libTs_J_Accm.so \
